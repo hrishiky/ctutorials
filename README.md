@@ -1,3 +1,3 @@
 ## C Tutorials
 
-C tutorial repository teaching C to the comp. sci. and cyber sec. club
+C tutorial repository teaching C to my computer science and cyber security club
